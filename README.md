@@ -3,5 +3,5 @@ Phone App concept. Virtual strength and cardio coach. Log live workouts using Fi
 
 
 ![image](https://user-images.githubusercontent.com/76083769/149882581-d95cde9c-4816-40e1-9a00-0beee913c5de.png)
-![image](https://user-images.githubusercontent.com/76083769/149883322-971e3fc3-1bc4-46b3-87ab-6b9d331d44d8.png)
-![image](https://user-images.githubusercontent.com/76083769/149883180-2d1f73f8-f9b5-4dd0-b69e-80ddba5d6670.png)
+![image](https://user-images.githubusercontent.com/76083769/149883869-95d328c3-d463-4dde-96ab-c2641b466dc8.png)
+![image](https://user-images.githubusercontent.com/76083769/149883962-888bd66b-9bf1-480a-8f6b-1f455b549ba3.png)
